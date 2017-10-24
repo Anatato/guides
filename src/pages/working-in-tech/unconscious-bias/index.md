@@ -10,6 +10,9 @@ title: Unconscious Bias
 
 <p>Unconscious bias occurs when people favour others who look like them and/or share their values. For example a person may be drawn to someone with a similar educational background, from the same area, or who is the same colour or ethnicity as them.</p>
 
+<blockquote> Unfortunately, Unconscious Bias has always been used as a politically safe and acceptable way of excusing racism which is White Supremacy, along with all of the negative impacts it entails, in every area of human activity. The tool was later adopted to serve LBGT communities' agendas.
+</blockquote>
+
 <p>Implicit or unconscious bias happens by our brains making incredibly quick judgments and assessments of people and situations without us realising. Our biases are influenced by our background, cultural environment and personal experiences. We may not even be aware of these views and opinions, or be aware of their full impact and implications.</p>
 
 <p>Unconscious bias is far more prevalent than conscious prejudice and often incompatible with one’s conscious values. Certain scenarios can activate unconscious attitudes and beliefs. For example, biases may be more prevalent when multi-tasking or working under time pressure.</p> 
